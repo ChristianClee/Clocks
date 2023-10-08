@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Clocks/static/css/main.d9f1beff.css",
-    "main.js": "/Clocks/static/js/main.7528f6c1.js",
+    "main.css": "/Clocks/static/css/main.9fb0a12f.css",
+    "main.js": "/Clocks/static/js/main.b441c344.js",
     "static/media/myPicture.png": "/Clocks/static/media/myPicture.0c628a1745ed3d1092c6.png",
     "static/media/8top.jpg": "/Clocks/static/media/8top.3cf734de81448072610b.jpg",
     "static/media/8bottom.jpg": "/Clocks/static/media/8bottom.65e4e72333797f2e4973.jpg",
@@ -23,17 +23,18 @@
     "static/media/7bottom.jpg": "/Clocks/static/media/7bottom.78e1155e9f5798af789a.jpg",
     "static/media/1Top.jpg": "/Clocks/static/media/1Top.a398c62c6167958db7c0.jpg",
     "static/media/1Bottom.jpg": "/Clocks/static/media/1Bottom.e8697ce20695114b1e21.jpg",
+    "static/media/goBackArrow.svg": "/Clocks/static/media/goBackArrow.7124f72db68ca493250aefe6dae17d5b.svg",
     "static/media/lightning-no.svg": "/Clocks/static/media/lightning-no.e62ff915c387af6f931cd4fe95b96178.svg",
     "static/media/triangle-duotone.svg": "/Clocks/static/media/triangle-duotone.d6d5bc51feb5c37eed456a4ab17c1575.svg",
     "static/media/reset.svg": "/Clocks/static/media/reset.11c80bd0468233975a01cff87a797c20.svg",
     "static/media/lightning.svg": "/Clocks/static/media/lightning.51d10d6761496645af77d4defed1a29d.svg",
     "index.html": "/Clocks/index.html",
     "static/media/triangle.svg": "/Clocks/static/media/triangle.813e3999a4236570fe0824e399b69998.svg",
-    "main.d9f1beff.css.map": "/Clocks/static/css/main.d9f1beff.css.map",
-    "main.7528f6c1.js.map": "/Clocks/static/js/main.7528f6c1.js.map"
+    "main.9fb0a12f.css.map": "/Clocks/static/css/main.9fb0a12f.css.map",
+    "main.b441c344.js.map": "/Clocks/static/js/main.b441c344.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9f1beff.css",
-    "static/js/main.7528f6c1.js"
+    "static/css/main.9fb0a12f.css",
+    "static/js/main.b441c344.js"
   ]
 }
